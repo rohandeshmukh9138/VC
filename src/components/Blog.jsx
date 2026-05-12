@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import blogRera from '../assets/blog-rera.png';
 
 const Blog = () => {
     const posts = [
@@ -23,7 +24,7 @@ const Blog = () => {
             title: "Understanding RERA: A Guide", 
             category: "Legal", 
             date: "Feb 10, 2025", 
-            img: "https://images.unsplash.com/photo-1582408921715-18e7824968c1?q=80&w=800&auto=format&fit=crop",
+            img: blogRera,
             desc: "Everything you need to know about RERA regulations and how they protect property owners.",
             details: "Learn how RERA safeguards buyers through escrowed funds, transparent timelines, and penalties for delays, ensuring accountability at every milestone.",
             delay: "0.2s"

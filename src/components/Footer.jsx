@@ -59,8 +59,8 @@ const Footer = () => {
                 <div className="footer-bottom">
                     <p>&copy; 2026 Vighnaharta Constructions. All Rights Reserved.</p>
                     <div className="footer-legal">
-                        <a href="#">Privacy Policy</a>
-                        <a href="#">Terms & Conditions</a>
+                        <a href="/privacy-policy">Privacy Policy</a>
+                        <a href="/terms-conditions">Terms & Conditions</a>
                     </div>
                 </div>
             </div>
